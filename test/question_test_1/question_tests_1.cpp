@@ -10,3 +10,8 @@ TEST_CASE("test")
 {
 	REQUIRE(test_config() == true);
 }
+
+TEST_CASE("Test roll_die function")
+{
+	REQUIRE(test_config() == true);
+}

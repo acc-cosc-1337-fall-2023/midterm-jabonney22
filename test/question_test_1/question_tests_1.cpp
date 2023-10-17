@@ -15,3 +15,4 @@ TEST_CASE("Test roll_die function")
 {
 	REQUIRE(test_config() == true);
 }
+
